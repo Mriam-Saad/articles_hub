@@ -1,27 +1,27 @@
-[submodule "web/modules/contrib/addtoany"]
+[submodule "addtoany"]
   path = web/modules/contrib/addtoany
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/modules/contrib/conditional_fields"]
+[submodule "conditional_fields"]
   path = web/modules/contrib/conditional_fields
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/modules/contrib/social_sharing"]
+[submodule "social_sharing"]
   path = web/modules/contrib/social_sharing
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/modules/contrib/twig_tweak"]
+[submodule "twig_tweak"]
   path = web/modules/contrib/twig_tweak
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/modules/contrib/views_field_view"]
+[submodule "views_field_view"]
   path = web/modules/contrib/views_field_view
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/themes/contrib/bootstrap4"]
+[submodule "bootstrap4"]
   path = web/themes/contrib/bootstrap4
   url = https://github.com/Mriam-Saad/articles_hub.git
 
-[submodule "web/themes/contrib/bootstrap_barrio"]
+[submodule "bootstrap_barrio"]
   path = web/themes/contrib/bootstrap_barrio
   url = https://github.com/Mriam-Saad/articles_hub.git
