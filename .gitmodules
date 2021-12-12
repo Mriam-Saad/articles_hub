@@ -1,27 +1,27 @@
 [submodule "addtoany"]
-  path = contrib/addtoany
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/addtoany
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "conditional_fields"]
-  path = contrib/conditional_fields
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/conditional_fields
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "social_sharing"]
-  path = contrib/social_sharing
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/social_sharing
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "twig_tweak"]
-  path = contrib/twig_tweak
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/twig_tweak
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "views_field_view"]
-  path = contrib/views_field_view
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/views_field_view
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "bootstrap4"]
-  path = contrib/bootstrap4
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/bootstrap4
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
 
 [submodule "bootstrap_barrio"]
-  path = contrib/bootstrap_barrio
-  url = https://github.com/Mriam-Saad/articles_hub
+  path = web/modules/contrib/bootstrap_barrio
+  url = https://github.com/Mriam-Saad/articles_hub/tree/main/web/modules/contrib
